@@ -1,5 +1,6 @@
 # agat-binder
-Make a repo where agat can be run.
+Make a repo where agat can be run in a Jupyter session.  
+Click the 'launch binder' badge below to start a Jupyter session where AGAT is already installed. Right in your browser. No need to login or intall anything.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/agat-binder/HEAD)
 
