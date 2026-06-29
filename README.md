@@ -24,4 +24,4 @@ Description Summary from [Anaconda's package overview](https://anaconda.org/chan
 
 
 JupyterLab interface: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/agat-binder/HEAD?urlpath=%2Flab%2Ftree%2F)  
-Jupyter Notebook 7+:  [![Binder](https://mybinder.org/v2/gh/fomightez/agat-binder/HEAD)
+Jupyter Notebook 7+:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/agat-binder/HEAD)
