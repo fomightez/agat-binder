@@ -2,7 +2,7 @@
 A repo made so AGAT (Another Gff Analysis Toolkit (AGAT)) can be run in a Jupyter session served by the MyBinder service.    
 Click the 'launch binder' badge below to start a Jupyter session where AGAT is already installed. Right in your browser. No need to login or intall anything.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/agat-binder/HEAD?urlpath=%2Flab%2Ftree%2Fdemo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/agat-binder/HEAD?urlpath=%2Flab%2Ftree%2Fdemo.ipynb) 
 
 -----------
 
