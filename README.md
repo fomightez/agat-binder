@@ -18,4 +18,4 @@ Description Summary from [Anaconda's package overview](https://anaconda.org/chan
 
 -----------
 
-***Clarifying Software Attribution: I, Wayne, am not involved in the AGAT software at all. Those at the National Bioinformatics Infrastructure Sweden are the developers and distributors of AGAT. See their materials. I simply set up this repository to make the software useable on the command line without installation headaches.***
+***Clarifying Software Attribution: I, Wayne, am not involved in the AGAT software at all. Those at the National Bioinformatics Infrastructure Sweden are the developers and distributors of AGAT. See their materials. I simply set up this repository to make the software useable in Jupyter or on the command line without installation headaches.***
